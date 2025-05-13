@@ -6,7 +6,7 @@
   position:absolute;
   left: 0;
   bottom: 0;
-  width: 100%;
+  width: 120%;
   height: 75px;
   background-color:#000000;
   color:white;
